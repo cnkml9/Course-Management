@@ -1,0 +1,23 @@
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Core\CourseService.Domain\bin\Debug\net7.0\CourseService.Domain.deps.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Core\CourseService.Domain\bin\Debug\net7.0\CourseService.Domain.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Core\CourseService.Domain\bin\Debug\net7.0\CourseService.Domain.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.AssemblyInfoInputs.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.AssemblyInfo.cs
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\refint\CourseService.Domain.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\ref\CourseService.Domain.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\bin\Debug\net7.0\CourseService.Domain.deps.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\bin\Debug\net7.0\CourseService.Domain.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\bin\Debug\net7.0\CourseService.Domain.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.AssemblyInfoInputs.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.AssemblyInfo.cs
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.sourcelink.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\refint\CourseService.Domain.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\CourseService.Domain.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Core\CourseService.Domain\obj\Debug\net7.0\ref\CourseService.Domain.dll

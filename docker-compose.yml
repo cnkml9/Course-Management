@@ -1,0 +1,23 @@
+version: '3.4'
+
+services:
+  courseservice.api:
+    image: ${DOCKER_REGISTRY-}courseserviceapi
+    build:
+      context: .
+      dockerfile: src/Services/CourseService/Presentation/CourseService.API/Dockerfile
+
+
+
+  gateway.api:
+    image: ${DOCKER_REGISTRY-}gatewayapi
+    build:
+      context: .
+      dockerfile: src/Services/PlatformService/Gateway.API/Dockerfile
+
+  authservice.api:
+    image: ${DOCKER_REGISTRY-}authserviceapi
+    build:
+      context: .
+      dockerfile: src/Services/AuthService/AuthService.API/Dockerfile
+

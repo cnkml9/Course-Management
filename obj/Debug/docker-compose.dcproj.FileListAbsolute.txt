@@ -1,0 +1,142 @@
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.API.deps.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.API.runtimeconfig.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\appsettings.Development.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\appsettings.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.API.exe
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.API.deps.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.API.runtimeconfig.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.API.staticwebassets.runtime.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.API.exe
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Gateway.API.deps.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Gateway.API.runtimeconfig.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Configurations\ocelot.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Gateway.API.exe
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.API.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.API.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Gateway.API.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.Application.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.Domain.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.Persistence.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.Infrastructure.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.Application.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AutoMapper.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.Domain.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.Infrastructure.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Ocelot.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Ocelot.Provider.Consul.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\FluentValidation.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\IPAddressRange.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Consul.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\MySqlConnector.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.API.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.API.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\Gateway.API.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.Application.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.Domain.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.Persistence.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\AuthService.Infrastructure.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.Application.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.Domain.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\bin\Debug\CourseService.Infrastructure.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.API.deps.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.API.runtimeconfig.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\appsettings.Development.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\appsettings.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.API.exe
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.API.deps.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.API.runtimeconfig.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.API.staticwebassets.runtime.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.API.exe
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Gateway.API.deps.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Gateway.API.runtimeconfig.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Configurations\ocelot.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Gateway.API.exe
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.API.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.API.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Gateway.API.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.Application.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.Domain.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.Persistence.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.Infrastructure.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.Application.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AutoMapper.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.Domain.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.Infrastructure.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Ocelot.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Ocelot.Provider.Consul.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\FluentValidation.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\IPAddressRange.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Consul.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\MySqlConnector.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.API.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.API.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\Gateway.API.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.Application.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.Domain.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.Persistence.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\AuthService.Infrastructure.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.Application.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.Domain.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\bin\Debug\CourseService.Infrastructure.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\obj\Debug\docker-c.35A3FFBA.Up2Date

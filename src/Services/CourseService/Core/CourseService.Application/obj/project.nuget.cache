@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "T6+g0eHLVZnRGudtCGTEcjZkGEBxRZ9GOkgTllIUy/6Q6Gur+TsNQYEhSCYyxXnwqxVl2+OSCzh0Ooew+xk/sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kmlcn\\OneDrive\\Masaüstü\\Tez-Course-Management\\src\\Services\\CourseService\\Core\\CourseService.Application\\CourseService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kmlcn\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\kmlcn\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\kmlcn\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kmlcn\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\kmlcn\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\kmlcn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

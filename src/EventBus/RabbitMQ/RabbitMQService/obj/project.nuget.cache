@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TybavYFbu7sAy5Y3KZVtTIDDgDwvbEKIEp7eR0KAv4wfb1mJmAAT4e/e/eFp6B1OEYq7dKYuzt3MPdcxkwB+gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kmlcn\\OneDrive\\Masaüstü\\Tez-Course-Management\\src\\EventBus\\RabbitMQ\\RabbitMQService\\RabbitMQService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kmlcn\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\kmlcn\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\kmlcn\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

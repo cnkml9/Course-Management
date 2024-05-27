@@ -1,0 +1,89 @@
+name: dockercompose16290115312661160839
+services:
+  authservice.api:
+    build:
+      context: C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\Akinsoft-educationManager
+      dockerfile: src/Services/AuthService/AuthService.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:5002
+    image: authserviceapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5002
+      published: "5002"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\kmlcn\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\kmlcn\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+  courseservice.api:
+    build:
+      context: C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\Akinsoft-educationManager
+      dockerfile: src/Services/CourseService/Presentation/CourseService.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:5001
+    image: courseserviceapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5001
+      published: "5001"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\kmlcn\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\kmlcn\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+  gateway.api:
+    build:
+      context: C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\Akinsoft-educationManager
+      dockerfile: src/Services/PlatformService/Gateway.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:5005
+    image: gatewayapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5005
+      published: "5005"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\kmlcn\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\kmlcn\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose16290115312661160839_default

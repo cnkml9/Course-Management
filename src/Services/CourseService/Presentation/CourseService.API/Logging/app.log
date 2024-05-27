@@ -1,0 +1,111 @@
+20.02.2024 01:04:19 - Log file created.
+20.02.2024 01:07:48 - INFO: Sample action executed successfully.
+20.02.2024 02:19:37 - INFO:  courseId: CourseService.Application.DTOs.Course.PaymentCourseViewModel course payment successful
+20.02.2024 02:22:45 - INFO:  courseId: CourseService.Application.DTOs.Course.PaymentCourseViewModel course payment successful
+20.02.2024 02:26:16 - INFO:  courseId: CourseService.Application.DTOs.Course.PaymentCourseViewModel course payment failed
+20.02.2024 14:07:31 - INFO:  Adding a video with courseId 08dc3204-2240-408f-8e0c-de06d67dd172  successful
+20.02.2024 14:07:31 - INFO:  Adding a course with courseId 08dc3204-2240-408f-8e0c-de06d67dd172  successful
+20.02.2024 14:10:16 - INFO:  Adding a video with courseId 08dc3204-846e-448b-8eaa-9bf57c52c0cb  successful
+20.02.2024 14:10:16 - INFO:  Adding a course with courseId 08dc3204-846e-448b-8eaa-9bf57c52c0cb  successful
+20.02.2024 14:13:06 - INFO:  Adding a video with courseId 08dc3204-2240-408f-8e0c-de06d67dd172  successful
+20.02.2024 14:14:00 - INFO:  Update a course with courseId 08dc3204-2240-408f-8e0c-de06d67dd172  successful
+20.02.2024 14:14:16 - INFO:  Delete a course with courseId 08dc3204-2240-408f-8e0c-de06d67dd172  successful
+20.02.2024 14:14:44 - INFO:  Publish a course with courseId 08dc3204-846e-448b-8eaa-9bf57c52c0cb  successful
+20.02.2024 14:15:32 - INFO: studentID:44fa126c-9b4c-45b7-b669-2a2d78af1f1e courseId: 08dc3204-846e-448b-8eaa-9bf57c52c0cb course purchase failed
+20.02.2024 14:46:17 - INFO: studentID:3795d144-7502-4583-aa53-51fa0d3b3427 courseId: 08dc3204-846e-448b-8eaa-9bf57c52c0cb course purchase failed
+20.02.2024 14:48:49 - INFO: studentID:3795d144-7502-4583-aa53-51fa0d3b3427 courseId: 08dc3204-846e-448b-8eaa-9bf57c52c0cb course purchase failed
+20.02.2024 14:48:54 - INFO: studentID:3795d144-7502-4583-aa53-51fa0d3b3427 courseId: 08dc3204-846e-448b-8eaa-9bf57c52c0cb course purchase failed
+20.02.2024 14:49:17 - INFO: studentID:3795d144-7502-4583-aa53-51fa0d3b3427 courseId: 08dc3204-846e-448b-8eaa-9bf57c52c0cb course purchase successful
+20.02.2024 15:07:16 - ERROR: Error during course purchase: Object reference not set to an instance of an object.
+Exception: 
+20.02.2024 15:07:35 - ERROR: Error during course purchase: Object reference not set to an instance of an object.
+Exception: 
+20.02.2024 15:07:45 - ERROR: Error during course purchase: Object reference not set to an instance of an object.
+Exception: 
+20.02.2024 15:09:45 - ERROR: Error during course purchase: Object reference not set to an instance of an object.
+Exception: 
+20.02.2024 15:10:09 - INFO:  courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course payment successful
+20.02.2024 15:14:12 - INFO:  courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course payment failed
+20.02.2024 15:14:46 - INFO:  courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course payment successful
+20.02.2024 17:08:12 - INFO:  Adding a video with courseId 08dc3204-846e-448b-8eaa-9bf57c52c0cb  successful
+20.02.2024 17:11:34 - INFO:  Adding a video with courseId 08dc321d-d853-4bd4-86c3-b8e48cd40d5e  successful
+20.02.2024 17:11:34 - INFO:  Adding a course with courseId 08dc321d-d853-4bd4-86c3-b8e48cd40d5e  successful
+20.02.2024 17:12:18 - INFO:  Adding a video with courseId 08dc321d-d853-4bd4-86c3-b8e48cd40d5e  successful
+20.02.2024 17:12:55 - INFO:  Delete a course with courseId 08dc321d-d853-4bd4-86c3-b8e48cd40d5e  successful
+20.02.2024 17:13:06 - INFO:  Adding a video with courseId 08dc321e-0f40-45a4-8d7b-208c7c67dda1  successful
+20.02.2024 17:13:06 - INFO:  Adding a course with courseId 08dc321e-0f40-45a4-8d7b-208c7c67dda1  successful
+20.02.2024 17:13:39 - INFO:  Update a course with courseId 08dc321e-0f40-45a4-8d7b-208c7c67dda1  successful
+20.02.2024 17:14:22 - INFO:  Publish a course with courseId 08dc321e-0f40-45a4-8d7b-208c7c67dda1  successful
+20.02.2024 17:15:25 - INFO: studentID:3795d144-7502-4583-aa53-51fa0d3b3427 courseId: 08dc321e-0f40-45a4-8d7b-208c7c67dda1 course purchase successful
+20.02.2024 17:15:59 - ERROR: Error during course purchase: Object reference not set to an instance of an object.
+Exception: 
+20.02.2024 17:21:15 - INFO:  courseId: 08dc321e-0f40-45a4-8d7b-208c7c67dda1 course payment failed
+20.02.2024 17:21:20 - INFO:  courseId: 08dc321e-0f40-45a4-8d7b-208c7c67dda1 course payment failed
+20.02.2024 17:21:37 - INFO:  courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course payment successful
+20.02.2024 17:22:00 - INFO:  courseId: 08dc321e-0f40-45a4-8d7b-208c7c67dda1 course payment successful
+20.02.2024 17:25:15 - INFO:  Publish a course with courseId 08dc321e-0f40-45a4-8d7b-208c7c67dda1  succesfully 
+19.05.2024 22:24:39 - INFO:  Adding a video with courseId 08dc7839-53c3-4ab9-8ab2-603546e9ff47  successful
+19.05.2024 22:24:39 - INFO:  Adding a course with courseId 08dc7839-53c3-4ab9-8ab2-603546e9ff47  successful
+19.05.2024 22:46:05 - INFO:  Adding a video with courseId 08dc783c-51ea-433a-8d42-5ce10558b86e  successful
+19.05.2024 22:46:05 - INFO:  Adding a course with courseId 08dc783c-51ea-433a-8d42-5ce10558b86e  successfully
+19.05.2024 22:56:03 - INFO:  Adding a video with courseId 08dc783d-b6b8-4889-8303-ee53e8e0b9ea  successful
+19.05.2024 22:56:03 - INFO:  Adding a course with courseId 08dc783d-b6b8-4889-8303-ee53e8e0b9ea  successfully
+19.05.2024 22:57:22 - INFO:  Adding a video with courseId 08dc783d-e583-4ca5-8dbc-16085c2c8d99  successful
+19.05.2024 22:57:22 - INFO:  Adding a course with courseId 08dc783d-e583-4ca5-8dbc-16085c2c8d99  successfully
+21.05.2024 22:13:41 - INFO:  Adding a video with courseId 08dc79ca-2029-49d8-8add-6e77a6953bbe  successful
+21.05.2024 22:13:41 - INFO:  Adding a course with courseId 08dc79ca-2029-49d8-8add-6e77a6953bbe  successfully
+21.05.2024 22:13:53 - INFO:  Adding a video with courseId 08dc79ca-277d-4bc7-87b7-ae1d47ef07d7  successful
+21.05.2024 22:13:53 - INFO:  Adding a course with courseId 08dc79ca-277d-4bc7-87b7-ae1d47ef07d7  successfully
+21.05.2024 23:01:52 - INFO:  Update a course with courseId 3fa85f64-5717-4562-b3fc-2c963f66afa6  successful
+21.05.2024 23:02:08 - INFO:  Update a course with courseId 3fa85f64-5717-4562-b3fc-2c963f66afa6  successful
+22.05.2024 21:56:44 - INFO:  Adding a video with courseId 08dc7a90-ecb9-428a-8fd2-0c732b8e6dad  successful
+22.05.2024 21:56:44 - INFO:  Adding a course with courseId 08dc7a90-ecb9-428a-8fd2-0c732b8e6dad  successfully
+22.05.2024 22:53:57 - INFO:  Delete a course with courseId 08dc7a90-ecb9-428a-8fd2-0c732b8e6dad  successful
+22.05.2024 22:58:17 - INFO:  Publish a course with courseId 08dc79ca-277d-4bc7-87b7-ae1d47ef07d7  successful
+22.05.2024 23:05:23 - INFO:  Adding a video with courseId 08dc3227-7faa-450a-89d3-87a8990d546c  successful
+22.05.2024 23:05:29 - INFO:  Adding a video with courseId 08dc3227-7faa-450a-89d3-87a8990d546c  successful
+22.05.2024 23:14:44 - INFO:  Delete a video with videoId 08dc7a9a-877c-40b1-8442-12b5b41f4cf2  successful
+22.05.2024 23:16:13 - INFO:  Delete a video with videoId 08dc3227-7fe4-443c-881c-7794dc28d440  successful
+22.05.2024 23:16:38 - INFO:  Delete a video with videoId 08dc7a9a-83a9-42d2-8647-5011ce771271  successful
+22.05.2024 23:17:47 - INFO:  Adding a video with courseId 08dc7839-53c3-4ab9-8ab2-603546e9ff47  successful
+22.05.2024 23:17:53 - INFO:  Delete a video with videoId 08dc7a9c-3f89-44ae-813d-2d8dccd08046  successful
+22.05.2024 23:37:29 - INFO:  Update a video with videoId 08dc7839-53f7-4d21-8f82-d0526b62d8c6  successful
+26.05.2024 00:30:59 - INFO:  courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course payment successful
+26.05.2024 00:33:07 - INFO: studentID:b100a04a-371c-45ff-9707-bc5e41418c46 courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course purchase failed
+26.05.2024 00:35:32 - INFO: studentID:b100a04a-371c-45ff-9707-bc5e41418c46 courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course purchase successful
+26.05.2024 00:42:31 - ERROR: Error during course purchase: An error occurred while saving the entity changes. See the inner exception for details.
+Exception: 
+26.05.2024 00:45:20 - ERROR: Error during course purchase: An error occurred while saving the entity changes. See the inner exception for details.
+Exception: 
+26.05.2024 00:47:08 - ERROR: Error during course purchase: An error occurred while saving the entity changes. See the inner exception for details.
+Exception: 
+26.05.2024 00:51:26 - INFO:  courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course payment successful
+26.05.2024 00:51:39 - INFO: studentID:b100a04a-371c-45ff-9707-bc5e41418c46 courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course purchase successful
+26.05.2024 00:55:58 - INFO: studentID:b100a04a-371c-45ff-9707-bc5e41418c46 courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course purchase successful
+26.05.2024 00:56:36 - INFO: studentID:b100a04a-371c-45ff-9707-bc5e41418c46 courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course purchase successful
+26.05.2024 00:56:56 - INFO:  courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course payment successful
+26.05.2024 00:58:56 - INFO:  courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course payment successful
+26.05.2024 00:59:43 - INFO:  courseId: 08dc30da-50be-4f97-8fd5-9ed514e388fb course payment successful
+26.05.2024 17:35:34 - INFO:  Delete a video with videoId 08dc783c-521d-4519-8629-10f14ad0f81d  successful
+26.05.2024 17:35:58 - INFO:  Adding a video with courseId 08dc783c-51ea-433a-8d42-5ce10558b86e  successful
+26.05.2024 17:36:29 - INFO:  Publish a course with courseId 08dc783c-51ea-433a-8d42-5ce10558b86e  successful
+26.05.2024 17:36:54 - INFO:  Delete a course with courseId 08dc783c-79b4-4641-81ee-824f0134a509  successful
+26.05.2024 17:37:08 - INFO:  Delete a course with courseId 08dc783c-51ea-433a-8d42-5ce10558b86e  successful
+26.05.2024 17:44:24 - INFO: studentID:b100a04a-371c-45ff-9707-bc5e41418c46 courseId: 08dc783d-e583-4ca5-8dbc-16085c2c8d99 course purchase failed
+26.05.2024 17:44:28 - INFO: studentID:b100a04a-371c-45ff-9707-bc5e41418c46 courseId: 08dc783d-e583-4ca5-8dbc-16085c2c8d99 course purchase failed
+26.05.2024 17:44:31 - ERROR: Error during course purchase: Object reference not set to an instance of an object.
+Exception: 
+26.05.2024 17:52:37 - INFO:   course payment successful
+26.05.2024 20:54:38 - INFO:   course payment successful
+26.05.2024 20:57:46 - INFO:   course payment successful
+26.05.2024 21:43:37 - INFO:   course payment successful
+26.05.2024 22:49:50 - INFO:  Adding a video with courseId 08dc783d-b6b8-4889-8303-ee53e8e0b9ea  successful
+26.05.2024 22:50:06 - INFO:  Adding a video with courseId 08dc79ca-2029-49d8-8add-6e77a6953bbe  successful
+26.05.2024 22:50:18 - INFO:  Adding a video with courseId 08dc783d-e583-4ca5-8dbc-16085c2c8d99  successful
+26.05.2024 22:51:09 - INFO:   course payment successful
+26.05.2024 22:52:27 - INFO:   course payment successful
+26.05.2024 23:51:06 - INFO:  Delete a video with videoId 08dc783d-b6f0-4b73-8955-323568a90826  successful
+26.05.2024 23:51:20 - INFO:  Adding a video with courseId 08dc783d-b6b8-4889-8303-ee53e8e0b9ea  successful
+27.05.2024 00:02:22 - INFO:   course payment successful
+27.05.2024 20:59:38 - INFO:   course payment successful
+27.05.2024 21:23:31 - INFO:   course payment successful

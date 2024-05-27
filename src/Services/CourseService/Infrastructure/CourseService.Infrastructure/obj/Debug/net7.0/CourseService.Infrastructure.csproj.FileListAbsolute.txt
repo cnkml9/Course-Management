@@ -1,0 +1,39 @@
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.AssemblyInfo.cs
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Infrastructure.deps.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Infrastructure.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Infrastructure.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Domain.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Domain.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.csproj.CopyComplete
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\refint\CourseService.Infrastructure.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\ref\CourseService.Infrastructure.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Infrastructure.runtimeconfig.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.genruntimeconfig.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Application.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Application.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Infrastructure.deps.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Infrastructure.runtimeconfig.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Infrastructure.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Infrastructure.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Application.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Domain.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Application.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\bin\Debug\net7.0\CourseService.Domain.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.AssemblyInfo.cs
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.sourcelink.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseSe.967CF3E4.Up2Date
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\refint\CourseService.Infrastructure.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\CourseService.Infrastructure.genruntimeconfig.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\CourseService\Infrastructure\CourseService.Infrastructure\obj\Debug\net7.0\ref\CourseService.Infrastructure.dll

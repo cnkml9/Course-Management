@@ -1,0 +1,35 @@
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Persistence.deps.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Persistence.runtimeconfig.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Persistence.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Persistence.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Domain.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Domain.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.csproj.AssemblyReference.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.AssemblyInfoInputs.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.AssemblyInfo.cs
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.csproj.CopyComplete
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\refint\AuthService.Persistence.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.genruntimeconfig.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\ref\AuthService.Persistence.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Persistence.deps.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Persistence.runtimeconfig.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Persistence.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Persistence.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Domain.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\bin\Debug\net7.0\AuthService.Domain.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.csproj.AssemblyReference.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.AssemblyInfoInputs.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.AssemblyInfo.cs
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.sourcelink.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthServ.5D1D95C4.Up2Date
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\refint\AuthService.Persistence.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\AuthService.Persistence.genruntimeconfig.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\Infrastructure\AuthService.Persistence\obj\Debug\net7.0\ref\AuthService.Persistence.dll

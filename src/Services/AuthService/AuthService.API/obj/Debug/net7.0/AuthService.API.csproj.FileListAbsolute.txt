@@ -1,0 +1,133 @@
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\appsettings.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.API.exe
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.API.deps.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.API.runtimeconfig.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.API.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.API.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.csproj.AssemblyReference.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.AssemblyInfoInputs.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.AssemblyInfo.cs
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.csproj.CoreCompileInputs.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets\msbuild.AuthService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets\msbuild.build.AuthService.API.props
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuthService.API.props
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuthService.API.props
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\scopedcss\bundle\AuthService.API.styles.css
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.csproj.CopyComplete
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\refint\AuthService.API.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.genruntimeconfig.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\ref\AuthService.API.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Application.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Domain.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Infrastructure.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Persistence.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Infrastructure.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Persistence.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Application.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Domain.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\appsettings.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.API.exe
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.API.deps.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.API.runtimeconfig.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.API.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.API.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Application.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Domain.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Infrastructure.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Persistence.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Infrastructure.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Persistence.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Application.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\bin\Debug\net7.0\AuthService.Domain.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.csproj.AssemblyReference.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.AssemblyInfoInputs.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.AssemblyInfo.cs
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.csproj.CoreCompileInputs.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.sourcelink.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets\msbuild.AuthService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets\msbuild.build.AuthService.API.props
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuthService.API.props
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuthService.API.props
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\scopedcss\bundle\AuthService.API.styles.css
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthServ.AA2E8EA6.Up2Date
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\refint\AuthService.API.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\AuthService.API.genruntimeconfig.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\AuthService\AuthService.API\obj\Debug\net7.0\ref\AuthService.API.dll

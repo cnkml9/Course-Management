@@ -1,0 +1,91 @@
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\appsettings.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Configurations\ocelot.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Gateway.API.exe
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Gateway.API.deps.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Gateway.API.runtimeconfig.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Gateway.API.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Gateway.API.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\IPAddressRange.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Ocelot.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.csproj.AssemblyReference.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.AssemblyInfoInputs.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.AssemblyInfo.cs
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.csproj.CoreCompileInputs.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets\msbuild.Gateway.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Gateway.API.props
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Gateway.API.props
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Gateway.API.props
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\scopedcss\bundle\Gateway.API.styles.css
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.csproj.CopyComplete
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\refint\Gateway.API.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.pdb
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.genruntimeconfig.cache
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\ref\Gateway.API.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Consul.dll
+C:\Users\kmlcn\OneDrive\Masaüstü\Akınsoft Mülakat\EducationManagementPlatform\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Ocelot.Provider.Consul.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\appsettings.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Configurations\ocelot.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Gateway.API.exe
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Gateway.API.deps.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Gateway.API.runtimeconfig.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Gateway.API.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Gateway.API.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Consul.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\IPAddressRange.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Ocelot.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Ocelot.Provider.Consul.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.csproj.AssemblyReference.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.AssemblyInfoInputs.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.AssemblyInfo.cs
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.csproj.CoreCompileInputs.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.sourcelink.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets\msbuild.Gateway.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Gateway.API.props
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Gateway.API.props
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Gateway.API.props
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\scopedcss\bundle\Gateway.API.styles.css
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway..9802D141.Up2Date
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\refint\Gateway.API.dll
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.pdb
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\Gateway.API.genruntimeconfig.cache
+C:\Users\kmlcn\source\repos\akinsoft-.net-mulakat\src\Services\PlatformService\Gateway.API\obj\Debug\net7.0\ref\Gateway.API.dll
